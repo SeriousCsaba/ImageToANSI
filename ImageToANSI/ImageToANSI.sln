@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageToANSI", "ImageToANSI\ImageToANSI.csproj", "{1BBDB412-C3BA-40FF-B6DF-7B299E344441}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BBDB412-C3BA-40FF-B6DF-7B299E344441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BBDB412-C3BA-40FF-B6DF-7B299E344441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BBDB412-C3BA-40FF-B6DF-7B299E344441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BBDB412-C3BA-40FF-B6DF-7B299E344441}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3F92F9A-9D68-4C68-B66E-3688FE600D55}
+	EndGlobalSection
+EndGlobal
